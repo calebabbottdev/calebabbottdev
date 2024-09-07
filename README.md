@@ -1,8 +1,8 @@
-# Hi there, I'm Caleb Abbott! 👋
+# Hi there, I'm Caleb! 👋
 
-I'm a QA Automation Engineer with a passion for exploring the world of full stack development.
+I'm an Automation Developer with a passion for exploring the world of full stack development.
 
-- 🔧 Currently working as a QA Automation Engineer
+- 🔧 Currently working as an Automation Developer
 - 👀 Interested in full stack development
 - 💼 Actively seeking opportunities to collaborate on interesting projects
 - 📫 You can reach me at [cabbottdev@gmail.com](mailto:cabbottdev@gmail.com)
